@@ -9,10 +9,6 @@ const Footer = () => {
                 <Text fontWeight={"bold"}>About Us</Text>
                 <Text fontSize={"sm"} letterSpacing={"widest"} textAlign={["center", "left"]}>We are the best crypto trading team, we provide guidance at very reasonable price.</Text>
             </VStack>
-            <VStack>
-               <Avatar boxSize={"28"} mt={["4", "0"]}/>
-               <Text>Our Founder</Text>
-            </VStack>
         </Stack>
     </Box>
   )
